@@ -210,7 +210,7 @@ export default function Login({ users, onLoginSuccess }) {
             </button>
           </div>
           <div className="demo-password-hint">
-            <span>Admin: <code>admin@123</code> &bull; Student: <code>[name]@123</code> (e.g. <code>pranav@123</code>, <code>pranav@123</code>)</span>
+            <span>Admin: <code>admin@123</code> &bull; Student: <code>[name]@123</code> (e.g. <code>pranav@123</code>, <code>rahul@123</code>)</span>
           </div>
         </div>
       </div>

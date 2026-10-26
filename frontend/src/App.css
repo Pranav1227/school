@@ -214,7 +214,8 @@
    MODULE 1: LOGIN COMPONENT
    ========================================================================== */
 .login-container {
-  min-height: calc(100vh - 60px);
+  min-height: 100vh;
+  flex: 1;
   display: flex;
   align-items: center;
   justify-content: center;
