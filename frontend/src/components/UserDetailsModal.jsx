@@ -129,20 +129,6 @@ export default function UserDetailsModal({ user, onClose }) {
                 )}
               </div>
             </div>
-
-            {/* Password (Encrypted in static JSON) */}
-            <div className="detail-item detail-full-width security-box">
-              <div className="detail-label">
-                <Key size={16} />
-                <span>Static JSON Stored Password (Encrypted)</span>
-              </div>
-              <div className="encrypted-password-display">
-                <code>{user.Password}</code>
-                <span className="decrypted-hint">
-                  (Decrypted: <strong>{decryptPassword(user.Password)}</strong>)
-                </span>
-              </div>
-            </div>
           </div>
         </div>
 

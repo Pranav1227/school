@@ -124,31 +124,6 @@ export default function StudentProfile({ student }) {
             </div>
           </div>
         </div>
-
-        {/* Card 4: Security Details (Encrypted Password) */}
-        <div className="profile-card profile-card-full security-card">
-          <div className="card-header">
-            <div className="card-header-icon bg-violet">
-              <Key size={20} color="#8b5cf6" />
-            </div>
-            <h3 className="card-title">Security & Encryption Details</h3>
-          </div>
-          <div className="card-body">
-            <p className="text-muted" style={{ marginBottom: '12px' }}>
-              Your account password is stored in encrypted format inside the static JSON database:
-            </p>
-            <div className="security-encryption-row">
-              <div>
-                <span className="info-label">Encrypted Hash in JSON:</span>
-                <code className="code-badge">{student.Password}</code>
-              </div>
-              <div>
-                <span className="info-label">Verified Decrypted Password:</span>
-                <span className="decrypted-pass-badge">{decryptPassword(student.Password)}</span>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   );
