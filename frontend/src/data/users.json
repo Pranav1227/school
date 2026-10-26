@@ -1,0 +1,102 @@
+[
+  {
+    "UserName": "Admin User",
+    "User type": "admin",
+    "Password": "YWRtaW5AMTIz",
+    "Email": "admin@gmail.com",
+    "Language": "English",
+    "Address": "101 High Street, Central City",
+    "Standard": "Staff / Administration",
+    "Subjects": ["Administration", "Curriculum Management"]
+  },
+  {
+    "UserName": "Rahul Sharma",
+    "User type": "student",
+    "Password": "cmFodWxAMTIz",
+    "Email": "rahul@gmail.com",
+    "Language": "English",
+    "Address": "12 Green Park, New Delhi",
+    "Standard": "10th",
+    "Subjects": ["Maths", "Science", "History"]
+  },
+  {
+    "UserName": "Pranav Verma",
+    "User type": "student",
+    "Password": "cHJhbmF2QDEyMw==",
+    "Email": "pranav@gmail.com",
+    "Language": "English",
+    "Address": "15 Residency Road, Pune",
+    "Standard": "10th",
+    "Subjects": ["Maths", "Science", "Computer"]
+  },
+  {
+    "UserName": "Priya Patel",
+    "User type": "student",
+    "Password": "cHJpeWFAMTIz",
+    "Email": "priya@gmail.com",
+    "Language": "Hindi",
+    "Address": "45 Lake View Road, Mumbai",
+    "Standard": "9th",
+    "Subjects": ["Science", "History", "English"]
+  },
+  {
+    "UserName": "John Doe",
+    "User type": "student",
+    "Password": "am9obkAxMjM=",
+    "Email": "john@gmail.com",
+    "Language": "English",
+    "Address": "89 River Street, New York",
+    "Standard": "8th",
+    "Subjects": ["Maths", "English", "Science"]
+  },
+  {
+    "UserName": "Amit Kumar",
+    "User type": "student",
+    "Password": "YW1pdEAxMjM=",
+    "Email": "amit@gmail.com",
+    "Language": "Hindi",
+    "Address": "23 MG Road, Bengaluru",
+    "Standard": "10th",
+    "Subjects": ["Maths", "Science", "Computer"]
+  },
+  {
+    "UserName": "Sneha Gupta",
+    "User type": "student",
+    "Password": "c25laGFAMTIz",
+    "Email": "sneha@gmail.com",
+    "Language": "English",
+    "Address": "56 Park Avenue, Kolkata",
+    "Standard": "7th",
+    "Subjects": ["Maths", "History", "Science"]
+  },
+  {
+    "UserName": "David Miller",
+    "User type": "student",
+    "Password": "ZGF2aWRAMTIz",
+    "Email": "david@gmail.com",
+    "Language": "English",
+    "Address": "14 Market Street, London",
+    "Standard": "6th",
+    "Subjects": ["Science", "Maths", "English"]
+  },
+  {
+    "UserName": "Pooja Singh",
+    "User type": "student",
+    "Password": "cG9vamFAMTIz",
+    "Email": "pooja@gmail.com",
+    "Language": "Hindi",
+    "Address": "78 Civil Lines, Jaipur",
+    "Standard": "9th",
+    "Subjects": ["History", "English", "Science"]
+  },
+  {
+    "UserName": "Sara Khan",
+    "User type": "student",
+    "Password": "c2FyYUAxMjM=",
+    "Email": "sara@gmail.com",
+    "Language": "English",
+    "Address": "34 Hill View Colony, Hyderabad",
+    "Standard": "10th",
+    "Subjects": ["Maths", "Science", "History"]
+  }
+]
