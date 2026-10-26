@@ -200,17 +200,17 @@ export default function Login({ users, onLoginSuccess }) {
             <button
               type="button"
               className="demo-btn demo-btn-student"
-              onClick={() => handleQuickLogin('rahul@gmail.com', 'rahul@123')}
+              onClick={() => handleQuickLogin('pranav@gmail.com', 'pranav@123')}
             >
               <GraduationCap size={16} />
               <div className="demo-btn-text">
                 <strong>Student Login</strong>
-                <small>rahul@gmail.com</small>
+                <small>pranav@gmail.com</small>
               </div>
             </button>
           </div>
           <div className="demo-password-hint">
-            <span>Admin: <code>admin@123</code> &bull; Student: <code>[name]@123</code> (e.g. <code>rahul@123</code>, <code>pranav@123</code>)</span>
+            <span>Admin: <code>admin@123</code> &bull; Student: <code>[name]@123</code> (e.g. <code>pranav@123</code>, <code>pranav@123</code>)</span>
           </div>
         </div>
       </div>

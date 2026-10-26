@@ -10,6 +10,16 @@
     "Subjects": ["Administration", "Curriculum Management"]
   },
   {
+    "UserName": "Pranav Bandagle",
+    "User type": "student",
+    "Password": "cHJhbmF2QDEyMw==",
+    "Email": "pranav@gmail.com",
+    "Language": "English",
+    "Address": "15 Residency Road, Mumbai",
+    "Standard": "10th",
+    "Subjects": ["Maths", "Science", "Computer"]
+  },
+  {
     "UserName": "Rahul Sharma",
     "User type": "student",
     "Password": "cmFodWxAMTIz",
@@ -18,16 +28,6 @@
     "Address": "12 Green Park, New Delhi",
     "Standard": "10th",
     "Subjects": ["Maths", "Science", "History"]
-  },
-  {
-    "UserName": "Pranav Verma",
-    "User type": "student",
-    "Password": "cHJhbmF2QDEyMw==",
-    "Email": "pranav@gmail.com",
-    "Language": "English",
-    "Address": "15 Residency Road, Pune",
-    "Standard": "10th",
-    "Subjects": ["Maths", "Science", "Computer"]
   },
   {
     "UserName": "Priya Patel",
